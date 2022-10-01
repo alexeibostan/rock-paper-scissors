@@ -13,10 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Live Site URL: [https://alexeibostan.github.io/rock-paper-scissors/](https://alexeibostan.github.io/rock-paper-scissors/)
 
 ### Built with
 
@@ -28,4 +25,3 @@ Users should be able to:
 ### Useful resources
 
 - [defer](https://www.w3schools.com/tags/att_script_defer.asp) - This helped me understanding how defer attribute works in a browser.
-
